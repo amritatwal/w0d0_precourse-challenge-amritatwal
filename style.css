@@ -2,6 +2,7 @@
     font-size: 11.5px;
     font-family: "Roboto", sans-serif;
     color: rgb(56, 56, 61);
+    word-spacing: none;
   }
   
   h1 {
@@ -75,7 +76,7 @@
   
   #img-caption {
     font-style: italic;
-    padding-top: 5px;
+    padding-top: 15px;
   }
   
   a,

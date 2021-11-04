@@ -42,7 +42,7 @@ The code here for the container
   grid-row: 1 / 4;
   ```
 
-Three rows are defined in the parent container but due to how grid tracks work - lines that represent the _start_ of the track - the grid rows set for the `#tribute-info` child needs to start from 1 to _4_. 
+Three rows are defined in the parent container but due to how grid tracks work - lines that represent the _start_ of the track - the grid rows set for the `#tribute-info` child needs to start from 1 to _4_. This was good experience in getting the content to fit the right rows and learning how grid tracks need to be set-up in order to work correctly. 
   
 Semantics wise it was good practice to incorporate what I learnt [here](https://marksheet.io/html-semantics.html). Every tag I choose has importance and meaning in the document. When reflecting on whether the use of `<strong>` was appropriate for the honours titles, I deemed it more fitting to use `<b>` instead. Although it may not be so black and white, I think it is good to get into the habit of thinking about what weight and purpose we give to text.  
 

@@ -28,12 +28,14 @@ When taking the opportunity to reflect on what I learnt when creating this page,
 
 For instance, I found CSS Grid quite tricky to work with as I encountered problems trying to get images (of different sizes) to fill in the space and resize responsively. There was also a good learning experience in mastering the container formatting and ensuring correctly set-up columns and rows for this particular set-up.
 
+The code here for the container
+
   ```
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   ````
 
-  and how that impacts one of its children
+  and its impact one of its children
 
   ```
   grid-column: 2 / 3;

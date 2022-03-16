@@ -1,5 +1,5 @@
 
-# [Tribute Page](https://github.com/SchoolOfCode/w0d0_precourse-challenge-amritatwal)
+# Tribute Page
 
 **Table of Contents**
 

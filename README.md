@@ -11,7 +11,9 @@
 
 ## Summary
 
-This is a tribute page I have created for FreeCodeCamp’s Responsive Web Design certification. In this project I pay tribute to Chelsea Women's forward Fran Kirby.  
+This is a tribute page I have created for FreeCodeCamp’s Responsive Web Design certification in preparation for School of Code. In this project I pay tribute to Chelsea Women's forward Fran Kirby.  
+
+Update (March 2022): I came back to this project after SoC ended, and have since deployed it which you can find [here](https://amritstributepage.netlify.app/).
 
 ## Context
 
